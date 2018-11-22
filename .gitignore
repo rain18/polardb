@@ -1,0 +1,9 @@
+*.sublime*
+lib/
+*.o
+*.a
+.idea/
+test/test_with_kill
+test/test
+CMakeLists.txt
+cmake-build-debug/
